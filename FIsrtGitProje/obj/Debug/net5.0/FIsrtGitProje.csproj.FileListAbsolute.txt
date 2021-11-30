@@ -1,0 +1,16 @@
+C:\Users\zramazanli\source\repos\FIsrtGitProje\FIsrtGitProje\bin\Debug\net5.0\FIsrtGitProje.exe
+C:\Users\zramazanli\source\repos\FIsrtGitProje\FIsrtGitProje\bin\Debug\net5.0\FIsrtGitProje.deps.json
+C:\Users\zramazanli\source\repos\FIsrtGitProje\FIsrtGitProje\bin\Debug\net5.0\FIsrtGitProje.runtimeconfig.json
+C:\Users\zramazanli\source\repos\FIsrtGitProje\FIsrtGitProje\bin\Debug\net5.0\FIsrtGitProje.runtimeconfig.dev.json
+C:\Users\zramazanli\source\repos\FIsrtGitProje\FIsrtGitProje\bin\Debug\net5.0\FIsrtGitProje.dll
+C:\Users\zramazanli\source\repos\FIsrtGitProje\FIsrtGitProje\bin\Debug\net5.0\ref\FIsrtGitProje.dll
+C:\Users\zramazanli\source\repos\FIsrtGitProje\FIsrtGitProje\bin\Debug\net5.0\FIsrtGitProje.pdb
+C:\Users\zramazanli\source\repos\FIsrtGitProje\FIsrtGitProje\obj\Debug\net5.0\FIsrtGitProje.csproj.AssemblyReference.cache
+C:\Users\zramazanli\source\repos\FIsrtGitProje\FIsrtGitProje\obj\Debug\net5.0\FIsrtGitProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zramazanli\source\repos\FIsrtGitProje\FIsrtGitProje\obj\Debug\net5.0\FIsrtGitProje.AssemblyInfoInputs.cache
+C:\Users\zramazanli\source\repos\FIsrtGitProje\FIsrtGitProje\obj\Debug\net5.0\FIsrtGitProje.AssemblyInfo.cs
+C:\Users\zramazanli\source\repos\FIsrtGitProje\FIsrtGitProje\obj\Debug\net5.0\FIsrtGitProje.csproj.CoreCompileInputs.cache
+C:\Users\zramazanli\source\repos\FIsrtGitProje\FIsrtGitProje\obj\Debug\net5.0\FIsrtGitProje.dll
+C:\Users\zramazanli\source\repos\FIsrtGitProje\FIsrtGitProje\obj\Debug\net5.0\ref\FIsrtGitProje.dll
+C:\Users\zramazanli\source\repos\FIsrtGitProje\FIsrtGitProje\obj\Debug\net5.0\FIsrtGitProje.pdb
+C:\Users\zramazanli\source\repos\FIsrtGitProje\FIsrtGitProje\obj\Debug\net5.0\FIsrtGitProje.genruntimeconfig.cache
